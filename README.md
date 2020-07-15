@@ -1,4 +1,4 @@
-# Cookiecutter Minimal PyPackage
+# Cookiecutter: Minimal PyPackage
 
 A quick way to get started on writing simple PyPi packages.
 
