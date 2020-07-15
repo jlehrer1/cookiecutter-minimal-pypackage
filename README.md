@@ -22,8 +22,8 @@ Generated file strucure
 │   ├── __init__.py
 │   └── test_{{cookiecutter.project_slug}}.py
 ├── tox.ini
-└── {{\ cookiecutter.project_slug\ }}			<-- Source code for project	
+└── {{ cookiecutter.project_slug }}			<-- Source code for project	
     ├── __init__.py
-    └── {{\ cookiecutter.project_slug\ }}.py
+    └── {{ cookiecutter.project_slug }}.py
 
 ```
