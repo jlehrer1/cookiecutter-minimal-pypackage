@@ -7,7 +7,7 @@ To use, run
 cookiecutter https://github.com/jlehrer1/cookiecutter-minimal-pypackage
 ```
 
-I highly recommend aliasing this command.
+I highly recommend aliasing the above command.
 
 Generated file strucure
 ```
