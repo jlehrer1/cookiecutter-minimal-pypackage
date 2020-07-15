@@ -4,8 +4,10 @@ A quick way to get started on writing simple PyPi packages.
 
 To use, run
 ```
-cookiecutter 
+cookiecutter https://github.com/jlehrer1/cookiecutter-minimal-pypackage
 ```
+
+I highly recommend aliasing this command.
 
 Generated file strucure
 ```
